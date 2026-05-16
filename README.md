@@ -8,7 +8,7 @@ A fine-tuned NLP pipeline that classifies toxic online comments using DistilBERT
 
 This project fine-tunes a multilingual DistilBERT model on a subset of the [Jigsaw Toxic Comment dataset](https://www.kaggle.com/code/tanulsingh077/deep-learning-for-nlp-zero-to-transformers-bert/notebook) to detect whether a comment is toxic or not. It covers the full NLP pipeline, including preprocessing, model building, handling class imbalance, and evaluating on both multilingual and English-only test sets.
 
-Google Colab Notebook: https://drive.google.com/file/d/1CqCUVrRnqad9yw31ipC-frzfAuC-6kxF/view?usp=sharing
+Google Colab Notebook: https://drive.google.com/file/d/1wu01RDq-Znbqpa-PXS3RXrh8DC4brFS3/view?usp=sharing
 
 ---
 
@@ -105,7 +105,7 @@ Toxic-Comment-Classification-with-DistilBERT/
 
 ```bash
 # Step 1: Clone the repository inside Google Colab
-!git clone https://github.com/2801/Toxic-Comment-Classification-with-DistilBERT.git
+!git clone https://github.com/md2801/Toxic-Comment-Classification-with-DistilBERT.git
 %cd Toxic-Comment-Classification-with-DistilBERT
 
 # Step 2: Check GPU availability
